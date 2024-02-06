@@ -1,1 +1,2 @@
 # smartG
+Mi primer repositorio
